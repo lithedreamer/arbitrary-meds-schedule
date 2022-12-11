@@ -1,8 +1,8 @@
 {
 	"id": "arbitrary-meds-schedule",
 	"name": "Arbitrary Meds Schedule",
-	"version": "0.0.1",
-	"minAppVersion": "0.0.1",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
 	"description": "A plugin to balance a variable work/sleep schedule with medication times.",
 	"author": "lithedreamer",
 	"authorUrl": "https://obsidian.md",
