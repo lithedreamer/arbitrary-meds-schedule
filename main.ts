@@ -61,7 +61,7 @@ function getArrayOfTimes():Date[]  {
 	return arrayOfTimes;
 }
 
-function printMedTimes() { 
+export function printMedTimes() { 
 
 	var times = getArrayOfTimes();
 	let medsArray: string[] = ['Pantoprazole', 'Adderall and Lyrica', '', 'Daily Meds and Iron + Vitamin C',
@@ -76,5 +76,3 @@ function printMedTimes() {
 	}
 	return medSchedule;
 }
-
-module.exports = printMedTimes;
